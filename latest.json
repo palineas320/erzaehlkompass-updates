@@ -1,5 +1,6 @@
 {
   "version": "23.21.16",
   "released": "2026-05-18",
-  "notes": "Neuer Update-Check im About-Tab \u2014 du wei\u00dft jetzt selbst, wann ein Update bereitsteht."
+  "notes": "Update-Check mit Mail-Anforderung im About-Tab. Du klickst, schreibst mir eine Mail, ich schicke dir die neue Datei zurück.",
+  "changelog": "https://schreibkram.net/erzaehlkompass/changelog"
 }
