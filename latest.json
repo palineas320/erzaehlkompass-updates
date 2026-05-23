@@ -1,6 +1,6 @@
 {
-  "version": "23.21.15",
-  "released": "2026-05-18",
+  "version": "23.21.30",
+  "released": "2026-05-22",
   "notes": "Update-Check mit Mail-Anforderung im About-Tab. Du klickst, schreibst mir eine Mail, ich schicke dir die neue Datei zurück.",
   "changelog": "https://schreibkram.net/erzaehlkompass/changelog"
 }
